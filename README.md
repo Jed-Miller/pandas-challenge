@@ -1,7 +1,7 @@
 
 # PyCitySchools Analysis Report
 
-As we service close to 40,000 students across 15 different high schools, ranging in size from small (less than 1000 students) to large (2000-5000 students), we need to consider how we are measuring success in our testing regime and what schools are reaching that threshold. Once we have determined “success”, there are many factors, such as the school-type, the student funding rate per school, student performance across grade levels, along with the previously mentioned school size to consider. Before we look at those metrics though, let’s dive into the data.
+As we serve close to 40,000 students across 15 different high schools, ranging in size from small (less than 1000 students) to large (2000-5000 students), we need to consider how we are measuring success in our testing regime and what schools are reaching that threshold. Once we have determined “success”, there are many factors, such as the school-type, the student funding rate per school, student performance across grade levels, along with the previously mentioned school size to consider. Before we look at those metrics though, let’s dive into the data.
 
 First off, let us define success as any student receiving a 70% or higher on either of the two tests they took in this last round of testing. By this metric, our overall district averages look good, with our average math score being 78.99% and our average reading score being 81.88%. Both of these averages are comfortably above the 70% passing threshold, but a better gauge of student success, I believe, would be to look at the percentage passing either or both of the tests. Here, the story gets a little murkier.
 
