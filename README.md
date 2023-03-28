@@ -1,5 +1,5 @@
-# pandas-challenge
-**PyCitySchools Analysis Report**
+
+# PyCitySchools Analysis Report
 
 As we service close to 40,000 students across 15 different high schools, ranging in size from small (less than 1000 students) to large (2000-5000 students), we need to consider how we are measuring success in our testing regime and what schools are reaching that threshold. Once we have determined “success”, there are many factors, such as the school-type, the student funding rate per school, student performance across grade levels, along with the previously mentioned school size to consider. Before we look at those metrics though, let’s dive into the data.
 
@@ -13,4 +13,4 @@ Lastly, when look at our students performing across grade levels, there does not
 
 This grade-level data does bring up interesting implications for how we measure success. If we ran a longitudinal study on a few cohorts of incoming freshman, would we find that the same kids, or relatively the same kids, are able to pass the exams as freshman running through being seniors? Who have impacted if we haven’t changed anyone’s behavior when it comes to these tests? This is not to suggest that we don’t serve an important role in preparing students to be successful, but if what we want is to change the fortunes of students in need of improving, are we really helping them when it comes to these fundamental skills if they don't improve?
 
-
+![alt text](District_Summary.png "Logo Title Text 1")
