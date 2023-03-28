@@ -13,4 +13,4 @@ Lastly, when look at our students performing across grade levels, there does not
 
 This grade-level data does bring up interesting implications for how we measure success. If we ran a longitudinal study on a few cohorts of incoming freshman, would we find that the same kids, or relatively the same kids, are able to pass the exams as freshman running through being seniors? Who have impacted if we haven’t changed anyone’s behavior when it comes to these tests? This is not to suggest that we don’t serve an important role in preparing students to be successful, but if what we want is to change the fortunes of students in need of improving, are we really helping them when it comes to these fundamental skills if they don't improve?
 
-![alt text](District_Summary.png "Logo Title Text 1")
+![District Summary](./district_summary.png "Logo Title Text 1")
